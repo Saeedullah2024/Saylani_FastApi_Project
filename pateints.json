@@ -1,0 +1,5 @@
+{"patients": [{"id": "P1", "name": "Ali Ahmed", "age": 32, "gender": "Male", "height": null, "weight": null}, 
+              {"id": "P2", "name": "Sara Khan", "age": 27, "gender": "Female", "height": null, "weight": null}, 
+              {"id": "P3", "name": "Hassan Ali", "age": 45, "gender": "Male", "height": null, "weight": null}, 
+              {"id": "P4", "name": "Saeed", "age": 21, "gender": "male", "height": 1.6, "weight": 55.2}]
+}
